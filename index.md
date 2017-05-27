@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# On the dementia tax
 
-You can use the [editor on GitHub](https://github.com/alex-adamou/dementiatax/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Alexander Adamou, 26 May 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After watching an unusually shallow discussion of the so-called "dementia tax" on _This Week_ last night, I want to give my take on it. Sadly I have some personal experience of social care in England. My mother has a constellation of dementias and other conditions which require round-the clock care costing £100,000 per year. She is 64 – ill, not old. Until recently, she was self-funding all her care from the sale of her £400,000 house. I have a good idea of how the system works.
 
-### Markdown
+## What’s all the fuss about?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First, let me summarise the current situation and the changes proposed in the Conservative manifesto. At present someone who needs looking after in a care or nursing home has their assets assessed by their local authority. Those with more than £23,250 must self-fund all their care. Some assets are exempt from this calculation, most notably the person’s house if their spouse or a dependent lives there. In my mother’s case I was the only other resident, so the house was not exempt and had to be sold.
 
-```markdown
-Syntax highlighted code block
+The Conservatives propose to change this system by always including the house in the assessment of assets and by including the cost of domiciliary care, i.e. care received in the person’s own home. The latter is currently provided free-of-charge by local authorities. This would shift a huge amount of the responsibility for care from the state to the individual. To soften the blow, the asset floor would be raised from £23,250 to £100,000 – drop below £100,000 and local government starts picking up the tab again.
 
-# Header 1
-## Header 2
-### Header 3
+In particular, the Conservative manifesto explicitly ruled out the recommendation in Sir Andrew Dilnot’s [report](http://www.thirdsectorsolutions.net/assets/files/Fairer-Care-Funding-Report Dilnot July 2011.pdf) that individuals pay their care costs up to some "cap" (Dilnot suggested £35,000). After this the state would step in, regardless of the person’s means. The Labour manifesto promises a cap although it doesn’t give the level. The Conservatives’ proposal was so badly received by the public that, within days, they reversed their manifesto commitment to no cap. It seems that placing many families in the position of receiving large and unknown bills, should one of their members become seriously debilitated through illness or old age, was not a vote-winner. Theresa May has said she will now consider a cap as part of a wider consultation.
 
-- Bulleted
-- List
+## It’s not really a tax
 
-1. Numbered
-2. List
+I dislike the characterisation of the Conservative policy as a "dementia tax". It might look like a tax when the final bill lands on the doormat, but logically it’s not a tax at all. Rather it's the payment by individuals of costs which society has declined to collectivise. This makes it quite the opposite of a tax – it's a _failure_ to tax.
 
-**Bold** and _Italic_ and `Code` text
+Using tax as a pejorative creates a politically disabling narrative in which all taxation is evil. This prevents grown-up discussion because it allows policies to be demolished by simply labelling them "a tax on X". Too frequently we fail to see government as what it is fundamentally: the business of collectivising some of our resources and activities. That a dementia tax – in the strict sense of a levy to provide funds to treat dementia – must be something nasty is a facile idea. Many would be happy to pay a dementia tax, if it meant that those of us, our families, and our friends who get dementia will be well looked after. The question deserves a higher quality of debate.
 
-[Link](url) and ![Image](src)
-```
+## But, if it is a tax, it’s not a good one
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+However, I’m going to run with the popular characterisation because it seems to have stuck. If, then, we treat the Conservative policy as a tax, what sort of tax is it? **Answer: a random inheritance tax.** According to the government’s 2015 [impact assessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401348/Social_Care_Funding_Reform_IA_FINAL_v2.pdf), 1 in 6 people will, at random, incur catastrophic care costs exceeding the then-proposed cap of £72,000. My mother is one of them. Indeed, even under the current system, she is incurring catastrophic costs, simply because she happened to be divorced when she got ill. The remaining 5 out of 6 will pay less. Some will pay nothing at all.
 
-### Jekyll Themes
+This arrangement creates a "health lottery" with winners and losers. The losers not only live out their days in dismal condition but also lose a large fraction of their estates. The winners who stay largely healthy contribute much less. Proponents of this setup – including Michael Portillo and Alan Johnson on _This Week_ – argue that it this is fair because old people are sitting on trillions of pounds of unearned housing wealth. They say that it would be unfair for workers on low and stagnant wages to fund the care of millionaire property owners. Portillo gave an additional reason: he approves ideologically of the transfer of such responsibilities from state to individual.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alex-adamou/dementiatax/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I agree with their point that we ought to start reallocating housing wealth, which is a major cause of economic inequality and social immobility in this country. However, their argument has two major flaws. The first is the idea that we can choose only between care funded by income tax and care paid for by individuals at the point of use. This is a false dichotomy. We have many other options, but we are so used to taxing only income that we don’t see them. The second is to conflate the injustices caused by housing wealth with the provision of social care. The two are not intrinsically linked. The way to reduce wealth inequality is to reallocate wealth through wealth taxes. The way to provide social care is, well, a matter of the nation’s political taste. It can be collectivised or left to the individual, or something in-between. In the UK, we have chosen already to share the costs of health care. Given that social care is extremely similar, my suspicion – confirmed perhaps by the dementia tax backlash – is that the national taste is to pool these risks too. Portillo has a different ideological palate. We can find out which prevails by having the debate, but only if we delineate the issues cleanly.
 
-### Support or Contact
+## The benefits of risk sharing  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If, however, we must have a proposal in which estate wealth is used to fund social care, it need not be as _prima facie_ unfair as what we face now. The problem is perfectly amenable to a collectivised solution. In 2010 Labour proposed one: an additional levy on estates to fund a National Care Service, which it [scrapped](http://www.telegraph.co.uk/news/election-2010/7536584/Government-scraps-death-tax-to-pay-for-elderly-care.html) after George Osborne labelled it a "death tax" (see my earlier remark). The current Labour manifesto resurrects the idea of a National Care Service, including the possibility of funding it through a wealth tax. A collectivised approach in which everyone pays in and everyone is covered would, by eliminating risk, give families certainty over their future finances.
+
+It would also be much easier to administer. One big problem I see with the Conservative proposal is that a personal tally of all costs incurred will have to be maintained for each person’s state-funded care, so that the correct invoice can be raised on their death. My personal experience is that care providers have enough paperwork already, mostly documenting care that they are too busy documenting to give.
+
+It is bad enough that self-funding creates unpalatable risks, but the incentives it creates are even worse. Our history teaches us this. Before we nationalised the health service in the 1940s, being treated by a doctor for a serious illness could wipe out a poor family. Many people chose, therefore, not to take themselves or their loved ones to the doctor. Result: people died from or were disabled by treatable conditions. At some point society decided this was no longer tolerable and collectivised medical costs. It did this in the face of considerable opposition from the Conservatives of the day. Indeed, one of Churchill's first acts after his 1951 election victory was to introduce prescription charges, which we still pay.
+
+By not sharing social care costs we will create the same horrors. Some aged and infirm parents will, under the pressure of expectations or through their own ambitions as providers, delay their acceptance of much-needed care. They and their families may start to resent every extra day of life that will be totted up on the final invoice. Most worrying of all, people who have made economic sacrifices to look after their parents at home, sometimes for many years, face being made homeless after they have discharged their duties. This recent [phone-in](https://www.youtube.com/watch?v=DUkuQ0VNvYw) on LBC radio tells you how they distraught they feel. And it’s all so needless. 
+
+## What is a public service?
+
+We should consider where the logic of Portillo and Johnson stops. If we run a personal account of dementia and similar costs to be settled at death, then why not costs for medical treatment, road accidents, house fires, policing, defence, and so on? Why should workers pay for millionaires’ heart attacks? Why not extend the doctrine of paying only for what you use to all public services? Fundamentally, this debate is over which activities we, the British, believe belong in the realm of public services. Is looking after people who are so old or – like my [mother](http://www.bbc.co.uk/news/av/health-39969874/dementia-why-son-fears-for-mum-s-future-care) – so sick to look after themselves one of them?
