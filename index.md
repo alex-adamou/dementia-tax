@@ -1,6 +1,6 @@
 # On the "dementia tax"
 
-Dr Alexander Adamou, 26 May 2017
+[Alexander Adamou](http://lml.org.uk/people/alex-adamou-2/), 26 May 2017
 
 After watching an unusually shallow discussion of the so-called "dementia tax" on _This Week_ last night, I want to give my take on it. Sadly I have some personal experience of social care in England. My mother has a constellation of dementias and other conditions which require round-the clock care costing £100,000 per year. She is 64 – ill, not old. Until recently, she was self-funding all her care from the sale of her £400,000 house. I have a good idea of how the system works.
 
