@@ -1,4 +1,4 @@
-# On the dementia tax
+# On the "dementia tax"
 
 Alexander Adamou, 26 May 2017
 
